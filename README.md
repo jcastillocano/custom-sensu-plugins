@@ -1,3 +1,4 @@
-# custom-sensu-plugins
+# gpp-sensu-plugins
 
-Custom sensu plugins for monitoring stuffs.
+Place for all the gpp-sensu custom plugins. As a gem, we'll be able to
+install all the plugins at once
